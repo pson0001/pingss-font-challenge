@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pingss-font-challenge/precache-manifest.69c4c0853449c865dd5d7c8356be0f18.js"
+  "/pingss-font-challenge/precache-manifest.844a841486f4d9d669872ab400d6ed93.js"
 );
 
 workbox.clientsClaim();
